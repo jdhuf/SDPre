@@ -30,6 +30,7 @@ public class Objective4Lab2 {
     System.out.println("The sum of " + dub1 + " + " + dub2 + " + " + dub3 + " = " + dubSum);
 
 
+
     //TODO prompt the user to get input for all of the above int variables.
 
     //TODO prompt the user to get input for all of the above double variables.
