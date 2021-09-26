@@ -16,7 +16,6 @@ public class Objective9Lab4 {
     kb.close();
 
   }
-
   public static double findAverage(double num1, double num2) {
     double answer = (num1 + num2)/2;
     return answer;
